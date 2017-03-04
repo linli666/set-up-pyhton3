@@ -8,5 +8,6 @@
  
 # Step 3
   Set python3 as your default python
+  
   open ".bash_profile" and add this line 
   > export PATH="/Users/linli/anaconda3/bin:$PATH"
